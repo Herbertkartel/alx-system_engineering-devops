@@ -1,0 +1,4 @@
+[master e61348a] Task 8
+ 2 files changed, 4 insertions(+)
+ create mode 100755 0x00-shell_basics/8-firstdelete
+ create mode 100644 7-movethatfile
