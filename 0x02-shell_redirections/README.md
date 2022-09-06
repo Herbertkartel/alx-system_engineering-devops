@@ -1,1 +1,1 @@
-Write a script that displays a confused smily
+Write a script that displays a confused smiley
