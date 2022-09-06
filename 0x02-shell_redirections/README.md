@@ -1,1 +1,1 @@
-reverse
+Display all files
