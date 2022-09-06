@@ -1,1 +1,1 @@
-Display all files
+Show all files
