@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -not -name '.' | wic +1
+fin ./* -type d -print | wic -1
