@@ -1,1 +1,1 @@
-Script that adds two numbers
+Script that prints every other line
