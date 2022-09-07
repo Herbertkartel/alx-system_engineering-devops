@@ -1,1 +1,1 @@
- a script that displays the results
+a script that converts a number
