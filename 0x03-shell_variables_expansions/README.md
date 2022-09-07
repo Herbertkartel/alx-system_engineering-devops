@@ -1,1 +1,1 @@
-script that encodes and decodes text
+The eggs of the brood need to be an odd number
