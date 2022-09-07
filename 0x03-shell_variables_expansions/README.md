@@ -1,1 +1,1 @@
-a script that encodes and decodes text
+script that encodes and decodes text
