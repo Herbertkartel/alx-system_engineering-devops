@@ -1,1 +1,1 @@
-Paths
+Script counting
