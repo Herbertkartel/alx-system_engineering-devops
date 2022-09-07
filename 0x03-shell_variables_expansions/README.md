@@ -1,1 +1,1 @@
-Script counting
+Global variables
