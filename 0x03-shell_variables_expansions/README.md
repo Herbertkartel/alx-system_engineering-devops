@@ -1,1 +1,1 @@
-script that prints
+script that displays the result
