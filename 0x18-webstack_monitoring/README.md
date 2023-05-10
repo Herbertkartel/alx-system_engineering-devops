@@ -39,4 +39,4 @@ Learning Objectives
 
 
 ## Author
-* **Robert Deprizio** - [BD20171998](https://github.com/BD20171998)
+* **Bayo Herbert** - [BD20171998](https://github.com/BD20171998)
